@@ -1,9 +1,7 @@
 {
   "name": "World Cup 2026 Interactive Wall Chart",
   "short_name": "WC26 Chart",
-  "description": "Mobile-friendly World Cup predictor and results wall chart.",
   "start_url": "./",
-  "scope": "./",
   "display": "standalone",
   "background_color": "#09111f",
   "theme_color": "#09111f",
